@@ -39,4 +39,4 @@ HEJ HEJ HJEJ HEJ HEJ HEJ HEJ HEJ
   end
 end
 
-diceschema()
+diceschema()hej hej hej
