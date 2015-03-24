@@ -25,7 +25,7 @@ require 'colorize'
 def diceschema()
 
   diffs = 0
-
+HEJ HEJ HJEJ HEJ HEJ HEJ HEJ HEJ
 
   (1..6).each do |dice1|
     (1..6).each do |dice2|
